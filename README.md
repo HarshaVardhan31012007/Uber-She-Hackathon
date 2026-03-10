@@ -5,14 +5,8 @@
 > A signal intelligence system that helps drivers understand safety moments and track earnings velocity in real time.
 
 **Live Deployments:**
-🔗 [Fleet Command Dashboard](https://<your-username>.github.io/<repository-name>/admin_dashboard.html) | 🔗 [Driver View Dashboard](https://<your-username>.github.io/<repository-name>/driver_dashboard.html) 
+🔗 [Fleet Command Dashboard]() | 🔗 [Driver View Dashboard]() 
 
-**Demo Video:**
-🎥 [Watch Demo on YouTube](https://youtu.be/<your-video-id>)
-
-*(📝 Note: Replace `<your-username>`, `<repository-name>`, and `<your-video-id>` with your actual details before submitting to HackerRank!)*
-
----
 
 ## What It Does
 
