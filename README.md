@@ -5,7 +5,7 @@
 > A signal intelligence system that helps drivers understand safety moments and track earnings velocity in real time.
 
 **Live Deployments:**
-🔗 [Fleet Command Dashboard]() | 🔗 [Driver View Dashboard]() 
+🔗 [Fleet Command Dashboard](https://harshavardhan31012007.github.io/Uber-She-Hackathon/admin_dashboard.html) | 🔗 [Driver View Dashboard](https://harshavardhan31012007.github.io/Uber-She-Hackathon/driver_dashboard.html) | 🔗 [Home Page](https://harshavardhan31012007.github.io/Uber-She-Hackathon) 
 
 
 ## What It Does
