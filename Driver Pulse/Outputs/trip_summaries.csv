@@ -1,0 +1,221 @@
+trip_id,driver_id,date,duration_min,distance_km,fare,pickup_location,dropoff_location,earnings_velocity,motion_events_count,audio_events_count,flagged_moments_count,max_severity,stress_score,trip_quality_rating
+TRIP001,DRV107,2024-02-06,18,8.2,145,Andheri West,BKC,483.33,6,3,8,high,0.59,poor
+TRIP002,DRV188,2024-02-06,23,12.4,220,BKC,Lower Parel,573.91,11,9,12,high,0.74,poor
+TRIP003,DRV003,2024-02-06,23,9.8,175,Worli,Bandra,456.52,2,3,3,medium,0.7,poor
+TRIP004,DRV210,2024-02-06,24,11.2,198,Bandra,Powai,495.0,3,2,4,low,0.56,fair
+TRIP005,DRV206,2024-02-06,27,14.5,258,Powai,Goregaon,573.33,3,2,4,medium,0.58,fair
+TRIP006,DRV077,2024-02-06,23,10.1,182,Goregaon,Andheri,474.78,3,5,4,medium,0.66,poor
+TRIP007,DRV095,2024-02-06,27,13.8,245,Andheri,Malad,544.44,3,1,3,low,0.51,fair
+TRIP008,DRV050,2024-02-06,28,15.2,312,Whitefield,Indiranagar,668.57,6,3,7,high,0.56,poor
+TRIP009,DRV070,2024-02-06,27,12.8,268,Indiranagar,Koramangala,595.56,4,3,6,high,0.61,poor
+TRIP010,DRV145,2024-02-06,30,16.5,345,Koramangala,Electronic City,690.0,13,16,13,high,0.85,poor
+TRIP011,DRV112,2024-02-06,32,18.7,385,Dwarka,Connaught Place,721.88,3,2,4,high,0.68,poor
+TRIP012,DRV042,2024-02-06,28,14.2,295,CP,Gurgaon Cyber City,632.14,6,3,7,medium,0.67,poor
+TRIP013,DRV096,2024-02-06,37,22.5,468,Cyber City,South Delhi,758.92,4,4,8,high,0.56,poor
+TRIP014,DRV032,2024-02-06,22,9.5,168,Kharadi,Viman Nagar,458.18,6,1,7,medium,0.48,fair
+TRIP015,DRV111,2024-02-06,28,13.2,235,Viman Nagar,Hinjewadi,503.57,1,5,5,high,0.67,poor
+TRIP016,DRV067,2024-02-06,28,12.8,228,Banjara Hills,Hitec City,488.57,4,2,4,medium,0.64,poor
+TRIP017,DRV144,2024-02-06,33,16.2,318,Hitec City,Secunderabad,578.18,4,4,5,medium,0.54,fair
+TRIP018,DRV161,2024-02-06,32,14.5,298,Colaba,Andheri,558.75,4,3,7,medium,0.53,fair
+TRIP019,DRV045,2024-02-06,33,15.8,335,Andheri,BKC,609.09,3,2,5,high,0.53,poor
+TRIP020,DRV157,2024-02-06,28,13.2,245,HSR Layout,Whitefield,525.0,4,1,5,low,0.48,fair
+TRIP021,DRV142,2024-02-06,32,13.5,156,Secunderabad,Jayanagar,292.5,7,4,9,medium,0.68,poor
+TRIP022,DRV048,2024-02-06,27,18.6,224,Bandra,Indiranagar,497.78,7,2,7,medium,0.74,poor
+TRIP023,DRV091,2024-02-06,30,13.8,196,South Delhi,Secunderabad,392.0,3,3,5,medium,0.53,fair
+TRIP024,DRV189,2024-02-06,35,16.2,432,Viman Nagar,Powai,740.57,6,3,7,medium,0.61,poor
+TRIP025,DRV188,2024-02-06,34,8.7,274,Dwarka,Banjara Hills,483.53,5,1,6,high,0.51,poor
+TRIP026,DRV024,2024-02-06,29,17.2,285,Andheri West,Hinjewadi,589.66,6,4,8,medium,0.62,poor
+TRIP027,DRV136,2024-02-06,19,9.5,327,HSR Layout,Hinjewadi,1032.63,4,1,4,medium,0.56,fair
+TRIP028,DRV189,2024-02-06,18,17.2,314,Connaught Place,Electronic City,1046.67,4,2,6,high,0.54,poor
+TRIP029,DRV106,2024-02-06,29,12.9,168,Malad,Hitec City,347.59,2,2,3,medium,0.56,fair
+TRIP030,DRV150,2024-02-06,27,15.1,173,Worli,Koramangala,384.44,4,2,6,medium,0.48,fair
+TRIP031,DRV130,2024-02-06,23,8.2,306,Secunderabad,Connaught Place,798.26,0,0,0,none,0.09,excellent
+TRIP032,DRV043,2024-02-06,36,14.2,355,Colaba,South Delhi,591.67,0,0,0,none,0.06,excellent
+TRIP033,DRV038,2024-02-06,36,8.3,302,Dwarka,Koramangala,503.33,0,0,0,none,0.08,excellent
+TRIP034,DRV053,2024-02-06,36,9.2,390,Secunderabad,Goregaon,650.0,0,0,0,none,0.04,excellent
+TRIP035,DRV185,2024-02-06,28,14.0,313,Indiranagar,Electronic City,670.71,0,0,0,none,0.06,excellent
+TRIP036,DRV020,2024-02-06,31,10.4,178,Viman Nagar,Goregaon,344.52,0,0,0,none,0.11,excellent
+TRIP037,DRV049,2024-02-06,27,11.2,292,Dwarka,Marathahalli,648.89,0,0,0,none,0.1,excellent
+TRIP038,DRV088,2024-02-06,25,15.5,187,Hinjewadi,Worli,448.8,0,0,0,none,0.06,excellent
+TRIP039,DRV083,2024-02-06,36,12.0,174,Kharadi,South Delhi,290.0,0,0,0,none,0.05,excellent
+TRIP040,DRV007,2024-02-06,31,10.5,179,Indiranagar,Kharadi,346.45,0,0,0,none,0.09,excellent
+TRIP041,DRV118,2024-02-06,27,13.2,416,Connaught Place,Dwarka,924.44,0,0,0,none,0.07,excellent
+TRIP042,DRV087,2024-02-06,26,15.5,372,Viman Nagar,Powai,858.46,0,0,0,none,0.1,excellent
+TRIP043,DRV007,2024-02-06,18,15.5,404,Hinjewadi,South Delhi,1346.67,0,0,0,none,0.04,excellent
+TRIP044,DRV131,2024-02-06,24,15.9,379,Hitec City,Viman Nagar,947.5,0,0,0,none,0.12,excellent
+TRIP045,DRV177,2024-02-06,37,18.2,362,HSR Layout,Hitec City,587.03,0,0,0,none,0.09,excellent
+TRIP046,DRV191,2024-02-06,19,14.3,326,Malad,Bandra,1029.47,0,0,0,none,0.07,excellent
+TRIP047,DRV107,2024-02-06,27,18.1,350,CP,Lower Parel,777.78,0,0,0,none,0.06,excellent
+TRIP048,DRV001,2024-02-06,38,10.4,351,Indiranagar,Hitec City,554.21,0,0,0,none,0.03,excellent
+TRIP049,DRV002,2024-02-06,23,11.1,447,Malad,Worli,1166.09,0,0,0,none,0.05,excellent
+TRIP050,DRV170,2024-02-06,22,10.3,265,Indiranagar,Gurgaon Cyber City,722.73,0,0,0,none,0.06,excellent
+TRIP051,DRV042,2024-02-06,33,14.7,363,BKC,Goregaon,660.0,0,0,0,none,0.06,excellent
+TRIP052,DRV198,2024-02-06,23,11.3,154,Marathahalli,Whitefield,401.74,0,0,0,none,0.1,excellent
+TRIP053,DRV149,2024-02-06,35,10.1,161,South Delhi,Marathahalli,276.0,0,0,0,none,0.07,excellent
+TRIP054,DRV046,2024-02-06,18,8.7,182,Indiranagar,Lower Parel,606.67,0,0,0,none,0.07,excellent
+TRIP055,DRV074,2024-02-06,31,18.8,186,CP,HSR Layout,360.0,0,0,0,none,0.04,excellent
+TRIP056,DRV026,2024-02-06,22,10.8,432,Worli,Kharadi,1178.18,0,0,0,none,0.04,excellent
+TRIP057,DRV168,2024-02-06,36,19.4,408,Lower Parel,Malad,680.0,0,0,0,none,0.08,excellent
+TRIP058,DRV107,2024-02-06,37,9.5,300,Hinjewadi,HSR Layout,486.49,0,0,0,none,0.11,excellent
+TRIP059,DRV028,2024-02-06,30,17.7,260,Goregaon,Bandra,520.0,0,0,0,none,0.07,excellent
+TRIP060,DRV175,2024-02-06,21,10.1,280,Whitefield,Hinjewadi,800.0,0,0,0,none,0.09,excellent
+TRIP061,DRV148,2024-02-06,19,13.9,331,Worli,Koramangala,1045.26,0,0,0,none,0.07,excellent
+TRIP062,DRV047,2024-02-06,35,13.1,266,Marathahalli,Bandra,456.0,0,0,0,none,0.09,excellent
+TRIP063,DRV189,2024-02-06,29,13.7,328,Andheri West,Hitec City,678.62,0,0,0,none,0.04,excellent
+TRIP064,DRV097,2024-02-06,37,8.4,167,Marathahalli,Secunderabad,270.81,0,0,0,none,0.11,excellent
+TRIP065,DRV060,2024-02-06,25,11.0,336,Colaba,Electronic City,806.4,0,0,0,none,0.05,excellent
+TRIP066,DRV135,2024-02-06,21,14.4,261,Dwarka,Andheri West,745.71,0,0,0,none,0.07,excellent
+TRIP067,DRV153,2024-02-06,30,19.1,270,CP,Jayanagar,540.0,0,0,0,none,0.03,excellent
+TRIP068,DRV182,2024-02-06,25,11.6,222,Hitec City,Koramangala,532.8,0,0,0,none,0.07,excellent
+TRIP069,DRV085,2024-02-06,38,12.9,157,Lower Parel,CP,247.89,0,0,0,none,0.11,excellent
+TRIP070,DRV207,2024-02-06,33,13.7,351,Koramangala,Colaba,638.18,0,0,0,none,0.1,excellent
+TRIP071,DRV011,2024-02-06,31,18.5,191,Colaba,Whitefield,369.68,0,0,0,none,0.11,excellent
+TRIP072,DRV060,2024-02-06,34,8.8,355,CP,Viman Nagar,626.47,0,0,0,none,0.1,excellent
+TRIP073,DRV031,2024-02-06,28,13.4,154,Hitec City,Powai,330.0,0,0,0,none,0.08,excellent
+TRIP074,DRV128,2024-02-06,38,13.3,209,Goregaon,Hitec City,330.0,0,0,0,none,0.07,excellent
+TRIP075,DRV056,2024-02-06,27,11.8,182,Malad,Kharadi,404.44,0,0,0,none,0.06,excellent
+TRIP076,DRV189,2024-02-06,38,17.2,444,Marathahalli,Koramangala,701.05,0,0,0,none,0.04,excellent
+TRIP077,DRV206,2024-02-06,32,13.7,208,Secunderabad,Hinjewadi,390.0,0,0,0,none,0.12,excellent
+TRIP078,DRV194,2024-02-06,28,17.6,241,Electronic City,Powai,516.43,0,0,0,none,0.1,excellent
+TRIP079,DRV143,2024-02-06,30,18.5,432,Andheri West,Viman Nagar,864.0,0,0,0,none,0.12,excellent
+TRIP080,DRV172,2024-02-06,38,15.3,257,Gurgaon Cyber City,Goregaon,405.79,0,0,0,none,0.12,excellent
+TRIP081,DRV048,2024-02-06,26,16.4,226,Banjara Hills,Connaught Place,521.54,0,0,0,none,0.05,excellent
+TRIP082,DRV066,2024-02-06,37,11.1,185,Powai,Hinjewadi,300.0,0,0,0,none,0.07,excellent
+TRIP083,DRV151,2024-02-06,21,8.2,409,Gurgaon Cyber City,CP,1168.57,0,0,0,none,0.08,excellent
+TRIP084,DRV112,2024-02-06,33,9.4,244,CP,Marathahalli,443.64,0,0,0,none,0.1,excellent
+TRIP085,DRV133,2024-02-06,26,11.5,393,Connaught Place,Goregaon,906.92,0,0,0,none,0.09,excellent
+TRIP086,DRV034,2024-02-06,37,10.6,284,Goregaon,Connaught Place,460.54,0,0,0,none,0.06,excellent
+TRIP087,DRV011,2024-02-06,23,12.9,214,Whitefield,Malad,558.26,0,0,0,none,0.11,excellent
+TRIP088,DRV043,2024-02-06,37,13.4,267,Secunderabad,Hitec City,432.97,0,0,0,none,0.05,excellent
+TRIP089,DRV078,2024-02-06,32,9.0,380,Koramangala,Colaba,712.5,0,0,0,none,0.11,excellent
+TRIP090,DRV003,2024-02-06,30,16.2,336,HSR Layout,Banjara Hills,672.0,0,0,0,none,0.09,excellent
+TRIP091,DRV039,2024-02-06,26,8.9,425,Koramangala,Malad,980.77,0,0,0,none,0.05,excellent
+TRIP092,DRV059,2024-02-06,33,18.9,450,Marathahalli,Banjara Hills,818.18,0,0,0,none,0.04,excellent
+TRIP093,DRV090,2024-02-06,19,8.1,398,Indiranagar,Dwarka,1256.84,0,0,0,none,0.04,excellent
+TRIP094,DRV139,2024-02-06,29,9.6,426,Powai,Whitefield,881.38,0,0,0,none,0.11,excellent
+TRIP095,DRV088,2024-02-06,23,14.0,313,Bandra,Lower Parel,816.52,0,0,0,none,0.06,excellent
+TRIP096,DRV041,2024-02-06,28,16.5,361,Worli,Koramangala,773.57,0,0,0,none,0.06,excellent
+TRIP097,DRV099,2024-02-06,19,19.7,395,CP,Whitefield,1247.37,0,0,0,none,0.1,excellent
+TRIP098,DRV083,2024-02-06,29,19.1,284,Whitefield,Banjara Hills,587.59,0,0,0,none,0.05,excellent
+TRIP099,DRV004,2024-02-06,26,14.2,363,Koramangala,HSR Layout,837.69,0,0,0,none,0.06,excellent
+TRIP100,DRV013,2024-02-06,33,17.2,217,Secunderabad,Hitec City,394.55,0,0,0,none,0.1,excellent
+TRIP101,DRV016,2024-02-06,32,8.6,216,Powai,BKC,405.0,0,0,0,none,0.09,excellent
+TRIP102,DRV183,2024-02-06,33,11.1,379,South Delhi,BKC,689.09,0,0,0,none,0.08,excellent
+TRIP103,DRV114,2024-02-06,32,12.3,427,South Delhi,Worli,800.62,0,0,0,none,0.11,excellent
+TRIP104,DRV021,2024-02-06,22,9.5,187,Indiranagar,Powai,510.0,0,0,0,none,0.04,excellent
+TRIP105,DRV100,2024-02-06,23,17.0,279,Secunderabad,Hinjewadi,727.83,0,0,0,none,0.06,excellent
+TRIP106,DRV205,2024-02-06,24,15.0,142,Hinjewadi,Powai,355.0,0,0,0,none,0.12,excellent
+TRIP107,DRV046,2024-02-06,31,19.0,266,Secunderabad,Worli,514.84,0,0,0,none,0.04,excellent
+TRIP108,DRV202,2024-02-06,28,8.3,202,Hinjewadi,Worli,432.86,0,0,0,none,0.04,excellent
+TRIP109,DRV003,2024-02-06,28,9.8,181,Colaba,Secunderabad,387.86,0,0,0,none,0.09,excellent
+TRIP110,DRV198,2024-02-06,33,13.4,277,Andheri West,Koramangala,503.64,0,0,0,none,0.06,excellent
+TRIP111,DRV183,2024-02-06,19,15.9,371,HSR Layout,Marathahalli,1171.58,0,0,0,none,0.08,excellent
+TRIP112,DRV095,2024-02-06,36,9.6,164,Indiranagar,Koramangala,273.33,0,0,0,none,0.08,excellent
+TRIP113,DRV056,2024-02-06,19,16.9,420,Dwarka,Lower Parel,1326.32,0,0,0,none,0.07,excellent
+TRIP114,DRV174,2024-02-06,30,11.1,262,Dwarka,Lower Parel,524.0,0,0,0,none,0.04,excellent
+TRIP115,DRV132,2024-02-06,18,18.2,223,Dwarka,Indiranagar,743.33,0,0,0,none,0.11,excellent
+TRIP116,DRV195,2024-02-06,38,17.0,218,South Delhi,Marathahalli,344.21,0,0,0,none,0.11,excellent
+TRIP117,DRV032,2024-02-06,31,16.8,298,Banjara Hills,Bandra,576.77,0,0,0,none,0.11,excellent
+TRIP118,DRV124,2024-02-06,29,16.0,328,South Delhi,Gurgaon Cyber City,678.62,0,0,0,none,0.05,excellent
+TRIP119,DRV160,2024-02-06,30,13.7,428,Lower Parel,Jayanagar,856.0,0,0,0,none,0.08,excellent
+TRIP120,DRV016,2024-02-06,31,17.7,235,Connaught Place,Lower Parel,454.84,0,0,0,none,0.05,excellent
+TRIP121,DRV004,2024-02-06,19,14.2,377,Hitec City,Secunderabad,1190.53,0,0,0,none,0.06,excellent
+TRIP122,DRV161,2024-02-06,22,19.2,409,Kharadi,Lower Parel,1115.45,0,0,0,none,0.09,excellent
+TRIP123,DRV126,2024-02-06,27,13.6,180,South Delhi,Indiranagar,400.0,0,0,0,none,0.09,excellent
+TRIP124,DRV084,2024-02-06,22,19.8,293,Kharadi,Connaught Place,799.09,0,0,0,none,0.03,excellent
+TRIP125,DRV198,2024-02-06,27,14.8,422,BKC,Kharadi,937.78,0,0,0,none,0.06,excellent
+TRIP126,DRV157,2024-02-06,21,14.1,351,Secunderabad,HSR Layout,1002.86,0,0,0,none,0.06,excellent
+TRIP127,DRV108,2024-02-06,36,17.8,321,Lower Parel,Jayanagar,535.0,0,0,0,none,0.11,excellent
+TRIP128,DRV141,2024-02-06,34,8.2,376,Powai,CP,663.53,0,0,0,none,0.07,excellent
+TRIP129,DRV052,2024-02-06,30,8.5,353,Indiranagar,Koramangala,706.0,0,0,0,none,0.03,excellent
+TRIP130,DRV094,2024-02-06,36,16.7,370,Whitefield,Koramangala,616.67,0,0,0,none,0.12,excellent
+TRIP131,DRV197,2024-02-06,23,10.5,180,Banjara Hills,Whitefield,469.57,0,0,0,none,0.08,excellent
+TRIP132,DRV170,2024-02-06,21,13.2,149,Worli,Andheri West,425.71,0,0,0,none,0.11,excellent
+TRIP133,DRV179,2024-02-06,23,15.9,375,Secunderabad,HSR Layout,978.26,0,0,0,none,0.1,excellent
+TRIP134,DRV031,2024-02-06,37,16.7,295,Banjara Hills,Electronic City,478.38,0,0,0,none,0.05,excellent
+TRIP135,DRV143,2024-02-06,30,17.7,184,Andheri West,Goregaon,368.0,0,0,0,none,0.03,excellent
+TRIP136,DRV039,2024-02-06,21,17.8,236,Goregaon,South Delhi,674.29,0,0,0,none,0.07,excellent
+TRIP137,DRV021,2024-02-06,38,9.7,263,Hitec City,Marathahalli,415.26,0,0,0,none,0.09,excellent
+TRIP138,DRV127,2024-02-06,35,10.3,294,Bandra,South Delhi,504.0,0,0,0,none,0.1,excellent
+TRIP139,DRV043,2024-02-06,31,8.3,225,HSR Layout,Colaba,435.48,0,0,0,none,0.09,excellent
+TRIP140,DRV086,2024-02-06,32,19.6,381,Gurgaon Cyber City,Hinjewadi,714.38,0,0,0,none,0.1,excellent
+TRIP141,DRV060,2024-02-06,25,10.4,431,Dwarka,BKC,1034.4,0,0,0,none,0.04,excellent
+TRIP142,DRV053,2024-02-06,28,8.1,361,South Delhi,HSR Layout,773.57,0,0,0,none,0.1,excellent
+TRIP143,DRV042,2024-02-06,36,15.2,423,BKC,South Delhi,705.0,0,0,0,none,0.1,excellent
+TRIP144,DRV042,2024-02-06,30,13.8,442,Secunderabad,CP,884.0,0,0,0,none,0.11,excellent
+TRIP145,DRV074,2024-02-06,33,10.8,171,Connaught Place,Hinjewadi,310.91,0,0,0,none,0.09,excellent
+TRIP146,DRV039,2024-02-06,28,14.6,277,Connaught Place,South Delhi,593.57,0,0,0,none,0.05,excellent
+TRIP147,DRV138,2024-02-06,21,13.9,317,Connaught Place,Andheri West,905.71,0,0,0,none,0.08,excellent
+TRIP148,DRV024,2024-02-06,23,11.5,238,Gurgaon Cyber City,Malad,620.87,0,0,0,none,0.08,excellent
+TRIP149,DRV134,2024-02-06,34,10.6,313,CP,Colaba,552.35,0,0,0,none,0.08,excellent
+TRIP150,DRV179,2024-02-06,32,9.6,290,Dwarka,Connaught Place,543.75,0,0,0,none,0.03,excellent
+TRIP151,DRV001,2024-02-06,38,16.8,381,Powai,Banjara Hills,601.58,0,0,0,none,0.1,excellent
+TRIP152,DRV038,2024-02-06,24,11.4,184,Bandra,Powai,460.0,0,0,0,none,0.11,excellent
+TRIP153,DRV001,2024-02-06,24,9.9,391,Connaught Place,South Delhi,977.5,0,0,0,none,0.09,excellent
+TRIP154,DRV169,2024-02-06,27,10.8,425,Andheri West,Electronic City,944.44,0,0,0,none,0.05,excellent
+TRIP155,DRV127,2024-02-06,26,12.3,221,Kharadi,BKC,510.0,0,0,0,none,0.1,excellent
+TRIP156,DRV048,2024-02-06,20,12.1,198,Worli,Viman Nagar,594.0,0,0,0,none,0.09,excellent
+TRIP157,DRV156,2024-02-06,25,13.8,314,Jayanagar,BKC,753.6,0,0,0,none,0.07,excellent
+TRIP158,DRV205,2024-02-06,35,11.2,217,Kharadi,Banjara Hills,372.0,0,0,0,none,0.08,excellent
+TRIP159,DRV025,2024-02-06,21,16.5,364,CP,Jayanagar,1040.0,0,0,0,none,0.09,excellent
+TRIP160,DRV068,2024-02-06,21,19.7,192,BKC,Kharadi,548.57,0,0,0,none,0.06,excellent
+TRIP161,DRV130,2024-02-06,21,10.0,200,Electronic City,Powai,571.43,0,0,0,none,0.05,excellent
+TRIP162,DRV193,2024-02-06,27,16.5,399,Worli,Bandra,886.67,0,0,0,none,0.1,excellent
+TRIP163,DRV104,2024-02-06,38,12.4,210,Goregaon,Gurgaon Cyber City,331.58,0,0,0,none,0.08,excellent
+TRIP164,DRV017,2024-02-06,31,17.2,143,Marathahalli,South Delhi,276.77,0,0,0,none,0.07,excellent
+TRIP165,DRV203,2024-02-06,28,11.4,227,Electronic City,Colaba,486.43,0,0,0,none,0.04,excellent
+TRIP166,DRV193,2024-02-06,31,12.3,265,Jayanagar,Kharadi,512.9,0,0,0,none,0.07,excellent
+TRIP167,DRV118,2024-02-06,31,17.4,210,Connaught Place,Gurgaon Cyber City,406.45,0,0,0,none,0.11,excellent
+TRIP168,DRV107,2024-02-06,34,17.5,325,Gurgaon Cyber City,Bandra,573.53,0,0,0,none,0.06,excellent
+TRIP169,DRV047,2024-02-06,18,16.6,404,Lower Parel,Koramangala,1346.67,0,0,0,none,0.07,excellent
+TRIP170,DRV063,2024-02-06,28,12.8,224,Dwarka,Jayanagar,480.0,0,0,0,none,0.06,excellent
+TRIP171,DRV048,2024-02-06,19,15.9,217,BKC,Hitec City,685.26,0,0,0,none,0.1,excellent
+TRIP172,DRV007,2024-02-06,34,19.7,354,Secunderabad,Colaba,624.71,0,0,0,none,0.11,excellent
+TRIP173,DRV096,2024-02-06,35,18.5,300,Andheri West,CP,514.29,0,0,0,none,0.03,excellent
+TRIP174,DRV085,2024-02-06,26,18.8,215,Gurgaon Cyber City,Hitec City,496.15,0,0,0,none,0.06,excellent
+TRIP175,DRV046,2024-02-06,24,18.7,366,Marathahalli,Hitec City,915.0,0,0,0,none,0.05,excellent
+TRIP176,DRV102,2024-02-06,30,17.3,294,Viman Nagar,Koramangala,588.0,0,0,0,none,0.05,excellent
+TRIP177,DRV046,2024-02-06,30,16.7,204,Viman Nagar,Indiranagar,408.0,0,0,0,none,0.03,excellent
+TRIP178,DRV046,2024-02-06,24,9.1,422,Koramangala,Jayanagar,1055.0,0,0,0,none,0.04,excellent
+TRIP179,DRV147,2024-02-06,38,9.9,154,Viman Nagar,Hinjewadi,243.16,0,0,0,none,0.12,excellent
+TRIP180,DRV175,2024-02-06,26,10.9,295,Kharadi,Worli,680.77,0,0,0,none,0.03,excellent
+TRIP181,DRV133,2024-02-06,19,18.1,272,Electronic City,Worli,858.95,0,0,0,none,0.06,excellent
+TRIP182,DRV064,2024-02-06,19,17.1,203,Hinjewadi,HSR Layout,641.05,0,0,0,none,0.04,excellent
+TRIP183,DRV106,2024-02-06,18,13.4,260,Hinjewadi,Colaba,866.67,0,0,0,none,0.05,excellent
+TRIP184,DRV132,2024-02-06,38,16.0,444,Indiranagar,Secunderabad,701.05,0,0,0,none,0.07,excellent
+TRIP185,DRV178,2024-02-06,36,16.1,333,Malad,Worli,555.0,0,0,0,none,0.07,excellent
+TRIP186,DRV107,2024-02-06,28,14.2,238,Electronic City,Gurgaon Cyber City,510.0,0,0,0,none,0.07,excellent
+TRIP187,DRV084,2024-02-06,21,9.8,357,Lower Parel,BKC,1020.0,0,0,0,none,0.04,excellent
+TRIP188,DRV031,2024-02-06,31,18.7,383,Lower Parel,Electronic City,741.29,0,0,0,none,0.05,excellent
+TRIP189,DRV018,2024-02-06,34,12.8,426,Dwarka,Whitefield,751.76,0,0,0,none,0.08,excellent
+TRIP190,DRV165,2024-02-06,36,14.0,356,Colaba,South Delhi,593.33,0,0,0,none,0.08,excellent
+TRIP191,DRV118,2024-02-06,31,17.9,213,South Delhi,Colaba,412.26,0,0,0,none,0.09,excellent
+TRIP192,DRV191,2024-02-06,32,9.6,402,Worli,Colaba,753.75,0,0,0,none,0.04,excellent
+TRIP193,DRV050,2024-02-06,24,13.5,156,Viman Nagar,Electronic City,390.0,0,0,0,none,0.03,excellent
+TRIP194,DRV161,2024-02-06,21,15.2,349,Electronic City,Hinjewadi,997.14,0,0,0,none,0.05,excellent
+TRIP195,DRV160,2024-02-06,27,8.5,218,Indiranagar,Electronic City,484.44,0,0,0,none,0.06,excellent
+TRIP196,DRV147,2024-02-06,27,11.5,154,Bandra,Marathahalli,342.22,0,0,0,none,0.1,excellent
+TRIP197,DRV052,2024-02-06,36,13.1,296,Goregaon,Powai,493.33,0,0,0,none,0.04,excellent
+TRIP198,DRV192,2024-02-06,33,8.0,420,BKC,Connaught Place,763.64,0,0,0,none,0.07,excellent
+TRIP199,DRV035,2024-02-06,33,14.9,429,Koramangala,Marathahalli,780.0,0,0,0,none,0.06,excellent
+TRIP200,DRV136,2024-02-06,30,13.7,450,Bandra,Kharadi,900.0,0,0,0,none,0.07,excellent
+TRIP201,DRV060,2024-02-06,38,13.5,370,Bandra,HSR Layout,584.21,0,0,0,none,0.12,excellent
+TRIP202,DRV085,2024-02-06,28,9.1,349,Dwarka,Koramangala,747.86,0,0,0,none,0.08,excellent
+TRIP203,DRV146,2024-02-06,35,8.5,366,Hitec City,Lower Parel,627.43,0,0,0,none,0.09,excellent
+TRIP204,DRV075,2024-02-06,23,16.5,432,Jayanagar,Colaba,1126.96,0,0,0,none,0.1,excellent
+TRIP205,DRV033,2024-02-06,27,14.7,203,Lower Parel,Goregaon,451.11,0,0,0,none,0.09,excellent
+TRIP206,DRV138,2024-02-06,37,14.5,167,Kharadi,Goregaon,270.81,0,0,0,none,0.06,excellent
+TRIP207,DRV131,2024-02-06,33,14.0,149,Viman Nagar,Powai,270.91,0,0,0,none,0.1,excellent
+TRIP208,DRV178,2024-02-06,18,11.3,245,Colaba,CP,816.67,0,0,0,none,0.09,excellent
+TRIP209,DRV198,2024-02-06,36,13.3,413,Dwarka,Hinjewadi,688.33,0,0,0,none,0.11,excellent
+TRIP210,DRV172,2024-02-06,19,13.9,151,Powai,Connaught Place,476.84,0,0,0,none,0.08,excellent
+TRIP211,DRV205,2024-02-06,18,18.3,302,Lower Parel,Worli,1006.67,0,0,0,none,0.07,excellent
+TRIP212,DRV016,2024-02-06,21,14.5,286,Whitefield,Jayanagar,817.14,0,0,0,none,0.04,excellent
+TRIP213,DRV067,2024-02-06,20,9.9,348,BKC,Banjara Hills,1044.0,0,0,0,none,0.11,excellent
+TRIP214,DRV199,2024-02-06,28,10.2,169,Worli,Koramangala,362.14,0,0,0,none,0.05,excellent
+TRIP215,DRV110,2024-02-06,22,13.0,305,CP,Worli,831.82,0,0,0,none,0.09,excellent
+TRIP216,DRV012,2024-02-06,19,10.4,445,South Delhi,Kharadi,1405.26,0,0,0,none,0.05,excellent
+TRIP217,DRV094,2024-02-06,34,12.6,198,Koramangala,Gurgaon Cyber City,349.41,0,0,0,none,0.03,excellent
+TRIP218,DRV205,2024-02-06,35,12.9,387,Hitec City,Malad,663.43,0,0,0,none,0.12,excellent
+TRIP219,DRV133,2024-02-06,18,11.2,440,Malad,Jayanagar,1466.67,0,0,0,none,0.09,excellent
+TRIP220,DRV138,2024-02-06,35,15.8,204,Connaught Place,Gurgaon Cyber City,349.71,0,0,0,none,0.11,excellent
